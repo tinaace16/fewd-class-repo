@@ -8,11 +8,12 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|May 1st| Project Description | Incomplete
-|May 8th| Wireframes / Priority Matrix / Functional Components | Incomplete
-|May 15th| External API(s) Decision / Core Application Structure (HTML, CSS, etc.) | Incomplete
-|May 22nd| Minimal Viable Product | Incomplete
-|May 29th| Styling / Bug Fixes | Incomplete
+|August 21st| Project Description | Incomplete
+|August 28th| Wireframes / Priority Matrix / Functional Components | Incomplete
+|Sep 4th| External API(s) Decision / Core Application Structure (HTML, CSS, etc.) | Incomplete
+|Sep 11th| Minimal Viable Product | Incomplete
+|Sep 18th| Styling / Bug Fixes | Incomplete
+|Sep 25th| Presentations 
 
 
 ## Project Description
