@@ -1,4 +1,11 @@
 # Project Overview
+My project will be a dynamic, yet simple and clean portfolio  site for my artwork. Think Scandinavian style, but NOT THAT minimilastic. I’m really into (seemingly) simple design with dark colors (your favorite). Although this site for instance, seems simple, it has some dynamic elements going on like the letters falling into place or text suddenly appearing on the screen.
+https://www.femmefatale.paris/en
+These next two sites are also an inspiration, showcasing that you can use some neat scrolling tricks to make your standard portfolio/artwork images a bit more special and less static all around.
+http://hannahpurmort.com/
+http://y78.fr/
+https://www.wokine.com/
+http://toyfight.co/what/
 
 ## Project Schedule
 
