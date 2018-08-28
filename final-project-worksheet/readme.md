@@ -32,7 +32,7 @@ Use this section to describe your final project and perhaps any links to relevan
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
 
 
-![](https://res.cloudinary.com/vimeo/image/upload/v1535495126/doc1.png | width=100)
+![image](https://res.cloudinary.com/vimeo/image/upload/v1535495126/doc1.png =250x250)
 
 
 ## Priority Matrix
