@@ -33,12 +33,16 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 
 
 ![image](https://res.cloudinary.com/vimeo/image/upload/v1535495126/doc1.png =250x250)
-![test](https://res.cloudinary.com/vimeo/image/upload/v1535647908/rsz_doc1.png)
+![test1](https://res.cloudinary.com/vimeo/image/upload/v1535647908/rsz_doc1.png)
+![test2](https://res.cloudinary.com/vimeo/image/upload/v1535648202/rsz_image2.png)
+![test3](https://res.cloudinary.com/vimeo/image/upload/v1535648378/rsz_image3.png)
+![test4](https://res.cloudinary.com/vimeo/image/upload/v1535648547/rsz_image4.png)
 
 
 ## Priority Matrix
 
 Include a full list of features that have been prioritized based on the `Time and Importance` Matix.  
+![test5](https://res.cloudinary.com/vimeo/image/upload/v1535648547/rsz_image4.png)
 
 ### MVP/PostMVP - 5min
 
